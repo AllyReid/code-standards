@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"scss.lint.idSelector": "error",
+		"scss.lint.important": "warning",
+		"scss.lint.zeroUnits": "warning",
+		"prettier.jsxSingleQuote": true,
+		"prettier.jsxBracketSameLine": true,
+		"prettier.singleQuote": true,
+		"prettier.useTabs": true,
+		"prettier.trailingComma": "all"
+	}
+}
